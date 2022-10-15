@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kauan da Silva Machado</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 - 🔭 I’m currently working on **Flanp**
 
