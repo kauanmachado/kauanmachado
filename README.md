@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kauan da Silva Machado</h1>
 <h3 align="center">A passionate web developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Flanp**
+- 🔭 I am currently looking for a job
 
 - 👨‍💻 All of my projects are available at [github.com/kauanmachado](github.com/kauanmachado)
 
