@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kauan da Silva Machado</h1>
 <h3 align="center">A passionate software developer from Brazil</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **C#**
 
 - 👨‍💻 All of my projects are available at [github.com/kauanmachado](github.com/kauanmachado)
 
