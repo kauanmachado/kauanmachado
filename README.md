@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kauan Machado</h1>
-
-- 🌱 I’m currently learning **React and .NET Core**
-
 - 👨‍💻 All of my projects are available at [https://github.com/kauanmachado](https://github.com/kauanmachado)
 
 - 📫 How to reach me **kauan.smachado0@gmail.com**
