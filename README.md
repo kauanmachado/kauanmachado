@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kauan Machado</h1>
-- 👨‍💻 All of my projects are available at [https://github.com/kauanmachado](https://github.com/kauanmachado)
-
-- 📫 How to reach me **kauan.smachado0@gmail.com**
+📫 How to reach me **kauan.smachado0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
